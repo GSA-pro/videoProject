@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
 
-printf("test1"\n);
+printf("test1\n");
 
 
 

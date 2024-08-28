@@ -1,8 +1,9 @@
 #include<stdio.h>
 int main(void)
 {
-	printf("ahdshadhad"\n);
-	printf("1232313"\n);
+	printf("ahdshadhad"\n);	
+	sleep(3);
+	
 	sleep(1);
 	return 0;
 }
